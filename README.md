@@ -1,4 +1,4 @@
-Force the Hand of Fate
-======================
+Combo Maker
+===========
 
-"Command-line" addon for [Klattmose's Fortune Cookie](https://klattmose.github.io/CookieClicker/FortuneCookie.js).
+"Console-line" "addon" for [Klattmose's Fortune Cookie](https://klattmose.github.io/CookieClicker/FortuneCookie.js).
