@@ -1,6 +1,6 @@
-var hasBuildingSpecial = function(spells_cast) {
-    return FortuneCookie.FateChecker(spells_cast, 0, 0.15, false).indexOf("Building Special") !== -1
-        || FortuneCookie.FateChecker(spells_cast, 1, 0.15, false).indexOf("Building Special") !== -1;
+var hasBuildingSpecial = function(spellsCast) {
+    return FortuneCookie.FateChecker(spellsCast, 0, 0.15, false).indexOf("Building Special") !== -1
+        || FortuneCookie.FateChecker(spellsCast, 1, 0.15, false).indexOf("Building Special") !== -1;
 }
 
 var comboSearch = function(target, maxRange = 10000) {
